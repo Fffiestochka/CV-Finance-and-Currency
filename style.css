@@ -185,6 +185,8 @@ pre {
 } */
 .section__projects {
   order: 6;
+  grid-column: 1 / 3;
+  /* grid-row: 1 / 3; */
 }
 /* .section__video {
   order: 8;
@@ -297,6 +299,9 @@ pre {
   font-style: italic;
   font-size: 16px;
 }
+.ds-new-duties-1 {
+  padding-bottom: 5px;
+}
 .speciality {
   padding-left: 10px;
 }
@@ -399,8 +404,8 @@ figcaption {
 }
 .projects-wrapper {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(2, 1fr);
+  grid-template-columns: repeat(8, 1fr);
+  /* grid-template-rows: repeat(2, 1fr); */
 
   justify-items: stretch;
   align-items: stretch;
