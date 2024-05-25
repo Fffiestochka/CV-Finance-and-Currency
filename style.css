@@ -169,29 +169,33 @@ pre {
 }
 .section__contacts {
   order: 1;
-  grid-column: 1 / 2;
-  grid-row: 1 / 3;
+  /* grid-column: 1 / 2;
+  grid-row: 1 / 3; */
 }
 .section__about-me {
-  order: 3;
+  order: 4;
+  /* order: 3; */
 }
 .section__skills {
-  order: 4;
+  /* order: 4; */
+  order: 3;
 }
-.section__code {
+/* .section__code {
   order: 5;
-}
+} */
 .section__projects {
   order: 6;
 }
-.section__video {
+/* .section__video {
   order: 8;
-}
+} */
 .section__experience {
-  order: 7;
+  /* order: 7; */
+  order: 5;
 }
 .section__education {
-  order: 9;
+  /* order: 9; */
+  order: 4;
 }
 
 .profile-photo {
