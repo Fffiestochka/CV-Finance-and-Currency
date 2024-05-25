@@ -1,2 +1,1 @@
-# rsschool-cv
-https://Fffiestochka.github.io/rsschool-cv/cv
+https://fffiestochka.github.io/CV-Finance-and-Currency/
