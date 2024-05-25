@@ -276,6 +276,9 @@ pre {
 .node {
   width: 10%;
 }
+.currency {
+  width: 90%;
+}
 .git {
   width: 60%;
 }

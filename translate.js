@@ -76,6 +76,9 @@ const translate = {
     'nngu-organization-2':
       'Lobachevsky State University of Nizhny Novgorod (2023-2024)',
     'nngu-speciality-2': 'The retraining program “Financial Management”',
+
+    'skill-currency': 'Currency control',
+    'skill-fm': 'Financial Management',
   },
   rus: {
     'nav-contacts': 'Контакты',
@@ -151,6 +154,9 @@ const translate = {
 
     'nngu-organization-2': 'ННГУ им. Н.И.Лобачевского (2023-2024)',
     'nngu-speciality-2': 'Программа переподготовки “Финансовый менеджмент”',
+
+    'skill-currency': 'Валютный контроль',
+    'skill-fm': 'Финансовый менеджмент',
   },
 };
 
