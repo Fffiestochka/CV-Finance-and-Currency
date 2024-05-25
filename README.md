@@ -1,3 +1,2 @@
 # rsschool-cv
-https://Fffiestochka.github.io/rsschool-cv/cv
-https://Fffiestochka.github.io/rsschool-cv
+https://fffiestochka.github.io/CV-Finance-and-Currency/
