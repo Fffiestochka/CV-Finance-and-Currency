@@ -12,8 +12,19 @@ const translate = {
     'section-title-contacts': 'Contacts',
     'my-location': 'Nizhny Novgorod, Russia',
     'section-title-about': 'About me',
-    'about-me-text':
-      "I'm looking to become a junior front-end developer. My goal is to develop professionally and gain competencies in order to be useful in solving team and personal tasks.",
+    'about-me-text-1': `I am looking for a job in the field of currency control - I have extensive experience related to foreign economic activity.`,
+    'about-me-text-2': `In May I graduated from the retraining program “Financial Management” , so I am considering vacancies for a beginner specialist in this field also.`,
+    'about-me-text-3': `I have a basic understanding of programming - my Frontend projects can be found using the links below.`,
+    'about-me-text-4': `I also have business correspondence skills in English.`,
+    'about-me-text-5': `Interested in learning new skills for the benefit of the common cause.
+      I guarantee an effective approach to achieving work goals and a positive attitude.`,
+
+    // 'about-me-text': `I am looking for a job in the field of currency control - I have extensive experience related to foreign economic activity.
+    //   In May I graduated from the retraining program “Financial Management” , so I am considering vacancies for a beginner specialist in this field also.
+    //   I have a basic understanding of programming - my Frontend projects can be found using the links below.
+    //   I also have business correspondence skills in English.
+    //   Interested in learning new skills for the benefit of the common cause.
+    //   I guarantee an effective approach to achieving work goals and a positive attitude.`,
     'section-title-skills': 'Skills',
     'section-title-code': 'Code',
     'section-title-video': 'Video-presentation',
@@ -70,8 +81,16 @@ const translate = {
     'section-title-contacts': 'Контакты',
     'my-location': 'Нижний Новгород, Россия',
     'section-title-about': 'Обо мне',
-    'about-me-text':
-      'Я стремлюсь получить позицию junior front-end developer. Моя цель - профессионально развиваться и осваивать новые навыки, чтобы приносить пользу в решении командных и личных задач.',
+    'about-me-text-1': `Я ищу работу в области валютного контроля - имею за плечами большой опыт работы, связанной с ВЭД.`,
+    'about-me-text-2': `Также в мае окончила программу переподготовки "Финансовый менеджмент" и рассматриваю вакансии начинающего специалиста в этой сфере.`,
+    'about-me-text-3': `Есть базовое представление о программировании - с моими Frontend проектами можно ознакомиться по ссылкам ниже.`,
+    'about-me-text-4': `Также имеется навык деловой переписки на английском языке.`,
+    'about-me-text-5': `Заинтересована в освоении новых навыков на благо общего дела. Гарантирую эффективный подход в достижении рабочих целей и позитивный настрой.`,
+    // 'about-me-text': `Я ищу работу в области валютного контроля - имею за плечами большой опыт работы, связанной с ВЭД.
+    // Также в мае окончила программу переподготовки "Финансовый менеджмент" и рассматриваю вакансии начинающего специалиста в этой сфере.
+    // Есть базовое представление о программировании - с моими Frontend проектами можно ознакомиться по ссылкам ниже.
+    // Также имеется навык деловой переписки на английском языке.
+    // Заинтересована в освоении новых навыков на благо общего дела. Гарантирую эффективный подход в достижении рабочих целей и позитивный настрой.`,
     'section-title-skills': 'Навыки',
     'section-title-code': 'Код',
     'section-title-video': 'Видео-презентация',
