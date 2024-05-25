@@ -70,8 +70,12 @@ const translate = {
       'Kozma Minin Nizhny Novgorod State Pedagogical University (2012-2015)',
     'ngpu-speciality':
       'Specialty "Pre-school pedagogy and psychology", qualification "Teacher of pre-school pedagogy and psychology", specialization "Development and correction of speech"',
-    'rss-organization': 'Rolling Scopes School (2021-now)',
+    'rss-organization': 'Rolling Scopes School (2021-2022)',
     'rss-speciality': 'Frontend developer',
+
+    'nngu-organization-2':
+      'Lobachevsky State University of Nizhny Novgorod (2023-2024)',
+    'nngu-speciality-2': 'The retraining program “Financial Management”',
   },
   rus: {
     'nav-contacts': 'Контакты',
@@ -142,8 +146,11 @@ const translate = {
     'ngpu-speciality':
       'Специальность «Дошкольная педагогика и психология», квалификация «Преподаватель дошкольной педагогики и психологии», специализация «Развитие и коррекция речи»',
 
-    'rss-organization': 'Rolling Scopes School (2021-н.в.)',
+    'rss-organization': 'Rolling Scopes School (2021-2022)',
     'rss-speciality': 'Frontend разработчик',
+
+    'nngu-organization-2': 'ННГУ им. Н.И.Лобачевского (2023-2024)',
+    'nngu-speciality-2': 'Программа переподготовки “Финансовый менеджмент”',
   },
 };
 
