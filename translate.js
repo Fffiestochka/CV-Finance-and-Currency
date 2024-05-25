@@ -13,7 +13,7 @@ const translate = {
     'my-location': 'Nizhny Novgorod, Russia',
     'section-title-about': 'About me',
     'about-me-text-1': `I am looking for a job in the field of currency control - I have extensive experience related to foreign economic activity.`,
-    'about-me-text-2': `In May I graduated from the retraining program “Financial Management” , so I am considering vacancies for a beginner specialist in this field also.`,
+    'about-me-text-2': `In May 2024, I graduated from the retraining program “Financial Management” , so I am considering vacancies for a beginner specialist in this field also.`,
     'about-me-text-3': `I have a basic understanding of programming - my Frontend projects can be found using the links below.`,
     'about-me-text-4': `I also have business correspondence skills in English.`,
     'about-me-text-5': `Interested in learning new skills for the benefit of the common cause.
@@ -39,7 +39,12 @@ const translate = {
     'project-keyboard': 'Keyboard',
     'project-slider': 'CSS slider',
     'section-title-experience': 'Experience',
-    'alfa-organization': 'Alfa-Service LLC (outsourcing for Intel) (2019-now)',
+    'ds-new-organization': 'RPC Diagnostic Systems, Ltd (2022-2024)',
+    'ds-new-position': 'Currency control specialist:',
+    'ds-new-duties-1': `ensuring compliance of the organization’s foreign economic activities with the currency legislation of the Russian Federation: tracking the timing of deliveries and payments for foreign trade transactions, registration of transactions, preparation and submission of necessary documentation to authorized banks;`,
+    'ds-new-duties-2': `timely and correct registration of export and import deliveries across the territory of the EAEU countries.`,
+
+    'alfa-organization': 'Alfa-Service LLC (outsourcing for Intel) (2019-2022)',
     'alfa-position': 'Logistic coordinator:',
     'alfa-duties': 'electronics import and export coordination.',
     'niro-organization':
@@ -65,8 +70,15 @@ const translate = {
       'Kozma Minin Nizhny Novgorod State Pedagogical University (2012-2015)',
     'ngpu-speciality':
       'Specialty "Pre-school pedagogy and psychology", qualification "Teacher of pre-school pedagogy and psychology", specialization "Development and correction of speech"',
-    'rss-organization': 'Rolling Scopes School (2021-now)',
+    'rss-organization': 'Rolling Scopes School (2021-2022)',
     'rss-speciality': 'Frontend developer',
+
+    'nngu-organization-2':
+      'Lobachevsky State University of Nizhny Novgorod (2023-2024)',
+    'nngu-speciality-2': 'The retraining program “Financial Management”',
+
+    'skill-currency': 'Currency control',
+    'skill-fm': 'Financial Management',
   },
   rus: {
     'nav-contacts': 'Контакты',
@@ -82,7 +94,7 @@ const translate = {
     'my-location': 'Нижний Новгород, Россия',
     'section-title-about': 'Обо мне',
     'about-me-text-1': `Я ищу работу в области валютного контроля - имею за плечами большой опыт работы, связанной с ВЭД.`,
-    'about-me-text-2': `Также в мае окончила программу переподготовки "Финансовый менеджмент" и рассматриваю вакансии начинающего специалиста в этой сфере.`,
+    'about-me-text-2': `Также в мае 2024 года окончила программу переподготовки "Финансовый менеджмент" и рассматриваю вакансии начинающего специалиста в этой сфере.`,
     'about-me-text-3': `Есть базовое представление о программировании - с моими Frontend проектами можно ознакомиться по ссылкам ниже.`,
     'about-me-text-4': `Также имеется навык деловой переписки на английском языке.`,
     'about-me-text-5': `Заинтересована в освоении новых навыков на благо общего дела. Гарантирую эффективный подход в достижении рабочих целей и позитивный настрой.`,
@@ -105,7 +117,13 @@ const translate = {
     'project-keyboard': 'Клавиатура',
     'project-slider': 'CSS слайдер',
     'section-title-experience': 'Опыт работы',
-    'alfa-organization': 'ООО Альфа Сервис (для компании Intel) (2019-н.в.)',
+
+    'ds-new-organization': 'ООО НПО «Диагностические системы» (2022-2024)',
+    'ds-new-position': 'Инженер по валютному контролю:',
+    'ds-new-duties-1': `обеспечение соответствия внешнеэкономической деятельности организации валютному законодательству РФ - Фед.закону № 173-ФЗ от 10.12.2003 "О валютном регулировании и валютном контроле" и Инструкции Банка России № 181-И от 16.08.2017: отслеживание сроков поставок и оплат по внешнеторговым сделкам, регистрация сделок, составление и предоставление необходимой документации в уполномоченные банки;`,
+    'ds-new-duties-2': `своевременное и корректное оформление экспортных и импортных поставок по территории стран ЕАЭС.`,
+
+    'alfa-organization': 'ООО Альфа Сервис (для компании Intel) (2019-2022)',
     'alfa-position': 'Логист координатор:',
     'alfa-duties': 'координация импорта и экспорта электроники.',
     'niro-organization':
@@ -131,8 +149,14 @@ const translate = {
     'ngpu-speciality':
       'Специальность «Дошкольная педагогика и психология», квалификация «Преподаватель дошкольной педагогики и психологии», специализация «Развитие и коррекция речи»',
 
-    'rss-organization': 'Rolling Scopes School (2021-н.в.)',
+    'rss-organization': 'Rolling Scopes School (2021-2022)',
     'rss-speciality': 'Frontend разработчик',
+
+    'nngu-organization-2': 'ННГУ им. Н.И.Лобачевского (2023-2024)',
+    'nngu-speciality-2': 'Программа переподготовки “Финансовый менеджмент”',
+
+    'skill-currency': 'Валютный контроль',
+    'skill-fm': 'Финансовый менеджмент',
   },
 };
 
